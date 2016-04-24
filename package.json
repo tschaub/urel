@@ -1,13 +1,16 @@
 {
   "name": "urel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find the relative URL between two root-relative URLs",
   "main": "index.js",
   "scripts": {
     "pretest": "eslint .",
     "test": "lab -t 100 test.js"
   },
-  "keywords": ["url", "relative"],
+  "keywords": [
+    "url",
+    "relative"
+  ],
   "license": "MIT",
   "devDependencies": {
     "code": "^2.2.0",
