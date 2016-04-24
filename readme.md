@@ -18,7 +18,7 @@ var relative = require('urel');
 
 ## Examples
 
-See the `tests.js` module for more details on what to expect.  Here are a few examples.
+See the [`test.js`](./test.js) module for more details on what to expect.  Here are a few examples.
 
 ```js
 relative('/common/dir/foo.html', '/common/dir/bar.html'); // './bar.html'
